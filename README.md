@@ -3,6 +3,7 @@
 <br>
 <br>
 <h3 align="left">My Socials:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anildombayci&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
 <p align="left">
 <a href="https://www.instagram.com/anld_official/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40"/></a>
 <a href="mailto:anldmbyci02@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/></a>
